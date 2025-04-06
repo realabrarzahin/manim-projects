@@ -4,4 +4,5 @@ Here I will just try to document the projects I will build while I'm learning Ma
 
 ### 1. Square to Circle
 [source code](./sources/square-to-circle.py)
-<iframe width="1920" height="1080" src="https://github.com/realabrarzahin/manim-projects/sources/media/videos/square-to-circle/1080p60/SquareToCircle.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/48KaZ-mDF40?si=M5KvgqpzDonxkR7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
