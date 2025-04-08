@@ -12,4 +12,4 @@ Here I will just try to document the projects I will build while I'm learning Ma
 9 April, 2025<br>
 <br>
 [source code](./sources/countdown.py)<br>
-[video link](https://youtu.be/gpYQGjl2Kug)
+[video link](https://youtu.be/wZ-PWsGbOLM)
