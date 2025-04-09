@@ -13,3 +13,9 @@ Here I will just try to document the projects I will build while I'm learning Ma
 <br>
 [source code](./sources/countdown.py)<br>
 [video link](https://youtu.be/wZ-PWsGbOLM)
+
+### 3. Points Animation
+9 April, 2025<br>
+<br>
+[source code](./sources/countdown.py)<br>
+[video link](https://youtu.be/0Ipjv-xusTU)
