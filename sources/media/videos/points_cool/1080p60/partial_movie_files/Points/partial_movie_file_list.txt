@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/manim-projects/sources/media/videos/points_cool/1080p60/partial_movie_files/Points/365091631_301576371_3864692361.mp4'
+file 'file:D:/manim-projects/sources/media/videos/points_cool/1080p60/partial_movie_files/Points/1542075998_9466449_1457348431.mp4'
+file 'file:D:/manim-projects/sources/media/videos/points_cool/1080p60/partial_movie_files/Points/1542075998_2229860262_1566146817.mp4'
+file 'file:D:/manim-projects/sources/media/videos/points_cool/1080p60/partial_movie_files/Points/1542075998_1839128356_736749337.mp4'
+file 'file:D:/manim-projects/sources/media/videos/points_cool/1080p60/partial_movie_files/Points/1542075998_1710072828_4090803148.mp4'
+file 'file:D:/manim-projects/sources/media/videos/points_cool/1080p60/partial_movie_files/Points/1542075998_2527624413_3953161625.mp4'
+file 'file:D:/manim-projects/sources/media/videos/points_cool/1080p60/partial_movie_files/Points/1542075998_2408024828_19951163.mp4'
