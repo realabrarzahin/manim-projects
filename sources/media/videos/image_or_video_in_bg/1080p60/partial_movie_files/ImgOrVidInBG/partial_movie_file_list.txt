@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/manim-projects/sources/media/videos/image_or_video_in_bg/1080p60/partial_movie_files/ImgOrVidInBG/1995204152_2975383826_3018241961.mp4'
+file 'file:D:/manim-projects/sources/media/videos/image_or_video_in_bg/1080p60/partial_movie_files/ImgOrVidInBG/2614452389_2968904986_1159440452.mp4'
+file 'file:D:/manim-projects/sources/media/videos/image_or_video_in_bg/1080p60/partial_movie_files/ImgOrVidInBG/2614452389_825588772_44050541.mp4'
+file 'file:D:/manim-projects/sources/media/videos/image_or_video_in_bg/1080p60/partial_movie_files/ImgOrVidInBG/2614452389_2968904986_3889017186.mp4'
+file 'file:D:/manim-projects/sources/media/videos/image_or_video_in_bg/1080p60/partial_movie_files/ImgOrVidInBG/2614452389_688053979_1832197869.mp4'
+file 'file:D:/manim-projects/sources/media/videos/image_or_video_in_bg/1080p60/partial_movie_files/ImgOrVidInBG/2614452389_4214253912_1059381712.mp4'
+file 'file:D:/manim-projects/sources/media/videos/image_or_video_in_bg/1080p60/partial_movie_files/ImgOrVidInBG/2614452389_2968904986_2891384641.mp4'
