@@ -19,3 +19,9 @@ Here I will just try to document the projects I will build while I'm learning Ma
 <br>
 [source code](./sources/points_cool.py)<br>
 [video link](https://youtu.be/0Ipjv-xusTU)
+
+### 4. Points Animation
+10 April, 2025<br>
+<br>
+[source code](./sources/image_or_video_in_bg.py)<br>
+[video link](https://youtu.be/svRja34Y1OQ)
