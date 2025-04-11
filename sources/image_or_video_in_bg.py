@@ -38,7 +38,15 @@ class ImgOrVidInBG(MovingCameraScene):
             submobject.set_stroke(opacity=0)
             submobject.set_fill(color=submobject.get_fill_color(), opacity=1)
 
-        self.play(Create(fill_svg), run_time=1)
+        stroke_svg = original.copy()
+        for submobject in stroke_svg:
+            submobject.set_stroke(opacity=1, width=3, color=theme.background_secondary)
+            submobject.set_fill(opacity=0)
+
+        self.play(Create(stroke_svg), run_time=3)
+        self.play(
+            Create(fill_svg), stroke_svg.animate.set_stroke(opacity=0), run_time=1
+        )
         self.wait()
 
         self.play(Write(text))
