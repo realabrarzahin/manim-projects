@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/365091631_2518751517_3010961859.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_2834709167_2207120004.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_2362401425_537124936.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_581471701_1052567532.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_2834709167_4194358925.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_2523291594_2469872863.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_2834709167_40142010.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_3822817161_2893216225.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_2844360058_3217272434.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_368606810_192507418.mp4'
+file 'file:D:/manim-projects/sources/media/videos/boat_river/1080p60/partial_movie_files/BoatAndRiver/1542075998_2834709167_4270194264.mp4'
