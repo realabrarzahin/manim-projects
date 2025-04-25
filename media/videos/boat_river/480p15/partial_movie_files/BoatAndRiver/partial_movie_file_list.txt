@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/manim-projects/media/videos/boat_river/480p15/partial_movie_files/BoatAndRiver/351382220_1207675324_223132457.mp4'
-file 'file:D:/manim-projects/media/videos/boat_river/480p15/partial_movie_files/BoatAndRiver/2053254938_1754310298_4094874011.mp4'
-file 'file:D:/manim-projects/media/videos/boat_river/480p15/partial_movie_files/BoatAndRiver/2053254938_95164713_3351895719.mp4'
-file 'file:D:/manim-projects/media/videos/boat_river/480p15/partial_movie_files/BoatAndRiver/2053254938_1754310298_3124078408.mp4'
